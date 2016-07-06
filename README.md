@@ -12,3 +12,6 @@ How to use it:
 ```
 
 
+<p align="center">
+<img src="./images/demo.png">
+</p>
