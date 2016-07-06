@@ -1,6 +1,7 @@
 # EasyAttributedString
 
 How to use it:
+```swift
 "Hello NSAttributedString".typeset
                           .color(color: UIColor.whiteColor())
                           .font(font: UIFont.systemFontOfSize(20))
@@ -8,3 +9,6 @@ How to use it:
                           .font(font: UIFont.boldSystemFontOfSize(40))
                           .contains("NSAttributedString")
                           .color(color: UIColor.yellowColor()).string
+```
+
+
